@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/Johnisagreatname/John.github.io.git/post/blog/</loc>
+    <loc>https://johnisagreatname.github.io/post/blog/</loc>
     <lastmod>2019-05-18T16:05:37+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/Johnisagreatname/John.github.io.git/</loc>
-    <lastmod>2019-05-18T16:05:37+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/Johnisagreatname/John.github.io.git/post/</loc>
+    <loc>https://johnisagreatname.github.io/</loc>
     <lastmod>2019-05-18T16:05:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Johnisagreatname/John.github.io.git/categories/</loc>
+    <loc>https://johnisagreatname.github.io/post/</loc>
+    <lastmod>2019-05-18T16:05:37+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/Johnisagreatname/John.github.io.git/tags/</loc>
+    <loc>https://johnisagreatname.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnisagreatname.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
